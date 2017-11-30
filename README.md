@@ -1,2 +1,2 @@
-# react-rexux
+# react-redux
 for testing purposes
